@@ -1,3 +1,3 @@
-# clone-tabnews
+# alvin.dev.br
 
-Projeto clone do Tabnews do Felipe Deschamps para o curso.dev
+Projeto de um website portfólio dos meus projetos pessoais.
